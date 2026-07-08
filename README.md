@@ -5,13 +5,13 @@
 <table>
 <tr>
 <td width="55%">
+**Frontend Developer & Mentor** with **2+ years of experience** building modern, responsive, and scalable web applications using **React** and the JavaScript ecosystem.
 
-Backend Developer & Mentor with **1.5+ years of experience** building scalable, production-ready systems using Python and Django.
+Strong expertise in **React.js, Next.js, TypeScript, Redux Toolkit, REST APIs, and Material UI**, with hands-on experience developing production-ready admin panels, dashboards, and business applications. Skilled in writing clean, maintainable code, optimizing application performance, and creating intuitive user interfaces.
 
-Strong expertise in **Django, DRF, and API design**, with hands-on experience in **microservices (gRPC), async systems (Celery, RabbitMQ), and real-time integrations (Aiogram)**.  
-Skilled in **PostgreSQL/MySQL database design**, **JWT-based authentication**, and **Dockerized deployments** on Linux servers (AWS).
+Experienced in collaborating with backend teams, integrating RESTful APIs, and using **Git, Webpack, and Docker** in modern development workflows.
 
-Currently mentoring **10+ developers**, guiding them through real-world backend development — from architecture and database design to API development and deployment.
+Currently mentoring aspiring frontend developers at **Codial Academy**, helping students master real-world frontend development, project architecture, state management, and best coding practices.
 
 </td>
 
