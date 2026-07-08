@@ -7,7 +7,7 @@
 <td width="55%">
 **Frontend Developer & Mentor** with **2+ years of experience** building modern, responsive, and scalable web applications using **React** and the JavaScript ecosystem.
 
-Strong expertise in **React.js, Next.js, TypeScript, Redux Toolkit, REST APIs, and Material UI**, with hands-on experience developing production-ready admin panels, dashboards, and business applications. Skilled in writing clean, maintainable code, optimizing application performance, and creating intuitive user interfaces.
+Strong expertise in **React.js, Next.js, TypeScript, REST APIs, and Material UI**, with hands-on experience developing production-ready admin panels, dashboards, and business applications. Skilled in writing clean, maintainable code, optimizing application performance, and creating intuitive user interfaces.
 
 Experienced in collaborating with backend teams, integrating RESTful APIs, and using **Git, Webpack, and Docker** in modern development workflows.
 
@@ -20,7 +20,7 @@ Currently mentoring aspiring frontend developers at **Codial Academy**, helping 
 </td>
 </tr>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,django,postgres,mysql,redis,docker,git,github,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=javascript,TypeScript,html,css,reactjs,nextjs,git,github,postman," />
 </p>
 </table>
 
