@@ -1,7 +1,6 @@
-<h1 align="center">Asadbek Mirmahmudov </h1>
-<h3 align="center">🎉 Frontend  Developer| React & Next.js Enthusiast</h3>
+
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, I'm Abboskhoja — Backend Developer
+  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, I'm Asadbek Mirmahmudov — Frontend  Developer
 </h2>
 <table>
 <tr>
