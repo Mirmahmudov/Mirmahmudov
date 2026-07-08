@@ -20,7 +20,7 @@ Currently mentoring aspiring frontend developers at **Codial Academy**, helping 
 </td>
 </tr>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,TypeScript,html,css,reactjs,nextjs,git,github,postman," />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,git,github,postman," />
 </p>
 </table>
 
